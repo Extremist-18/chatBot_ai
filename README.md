@@ -1,5 +1,8 @@
 <h2><strong><u> 🧠 ChatBot AI </u><strong></h2>
+  
 An intelligent full-stack chatbot web application built using React, TypeScript, Node.js, Express, and OpenAI GPT-3.5 API. This project supports user authentication, secure sessions with cookies, and dynamic chat interaction using OpenAI's API. It includes both a frontend and backend, designed to work seamlessly together.
+
+
 
 
 🚀 Features
@@ -29,9 +32,9 @@ Auth: JWT + Cookies (secure, SameSite=None)
 
 AI: OpenAI GPT-3.5 API
 
+
 🔗 Live Website
 👉 https://chatbot-ai-c526.onrender.com
-
 
 ## 📸 Demo Screenshots
 
